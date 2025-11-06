@@ -1,4 +1,4 @@
-![Yudistira](img/github-header-image.png)
+![Yudistira](img/github-header-banner.png)
 
 
 ## 🌐 Socials:
