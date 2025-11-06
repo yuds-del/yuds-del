@@ -1,7 +1,7 @@
 ![Yudistira](img/github-header-banner.png)
 
 
-##💫 About Me:
+## 💫 About Me:
 Programmer dengan ketertarikan besar dalam pengembangan perangkat lunak. Berfokus pada membangun sistem yang fungsional, efisien, dan memberikan solusi terbaik untuk setiap kebutuhan proyek.
 
 
