@@ -1,7 +1,7 @@
 ![Yudistira](img/github-header-banner.png)
 
 
-# 💫 About Me:
+## 💫 About Me:
 Programmer dengan ketertarikan besar dalam pengembangan perangkat lunak. Berfokus pada membangun sistem yang fungsional, efisien, dan memberikan solusi terbaik untuk setiap kebutuhan proyek.
 
 
@@ -25,3 +25,26 @@ Programmer dengan ketertarikan besar dalam pengembangan perangkat lunak. Berfoku
 [![](https://visitcount.itsvg.in/api?id=yuds-del&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<img src="https://raw.githubusercontent.com/yudistiramalik/yudistiramalik/output/snake.svg" alt="Snake animation" />
+
+###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!--
+**yudistiramalik/yudistiramalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
